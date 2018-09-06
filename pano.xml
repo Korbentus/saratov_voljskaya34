@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2">
+  <panorama id="node2">
+    <input tile1url="images/pannorama_o_1.jpg" prev4url="images/pannorama_o_preview_4.jpg" prev3url="images/pannorama_o_preview_3.jpg" prev0url="images/pannorama_o_preview_0.jpg" tilescale="1.004883" tile3url="images/pannorama_o_3.jpg" levelingroll="0" tile0url="images/pannorama_o_0.jpg" prev1url="images/pannorama_o_preview_1.jpg" levelingpitch="0" tilesize="2048" tile5url="images/pannorama_o_5.jpg" prev2url="images/pannorama_o_preview_2.jpg" tile4url="images/pannorama_o_4.jpg" tile2url="images/pannorama_o_2.jpg" prev5url="images/pannorama_o_preview_5.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="74.5" pan="36.203" tilt="1.64086"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata source="" copyright="" comment="" datetime="" author="" tags="Coupe" longitude="" title="" description="" latitude="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textalpha="1" textcolor="0x000000" background="1" width="180" borderradius="1" border="1" height="20" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" borderalpha="1" enabled="1" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80" id="Lensflare01" color="0xffffff" pan="-17.86" blinding="50" tilt="56.21" type="3"/>
+    </media>
+    <transition blendtime="1" zoomfov="20" zoomoutpause="1" zoomin="0" zoomspeed="2" softedge="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" enabled="0"/>
+    <autorotate returntohorizon="0.000" noderandom="1" delay="4.00" useanimation="0" startloaded="0" nodedelay="0.00" speed="0.100"/>
+    <control sensitivity="8" lockedkeyboard="0" invertcontrol="1" hideabout="0" dblclickfullscreen="0" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedkeyboardzoom="0" speedwheel="1" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+</tour>
